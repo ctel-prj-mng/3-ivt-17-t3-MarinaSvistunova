@@ -45,7 +45,7 @@ https://docs.google.com/document/d/1ubPII9KcPS7T43OUjGK9gGgkQ7f2-O9R2gpBTZIgHls/
 
 3.4.  Анализ работы программного продукта (веб-приложения) и создание схемы с последовательностью операций выполняемых ПО на предмет рефакторинга кода и реинжиниринга самого приложения и оформление по результатам отчета в репозитории с использованием разметки Markdown.
 
-![](https://github.com/ctel-prj-mng/3-ivt-17-t3-MarinaSvistunova/blob/master/img/image.png]
+![](https://github.com/ctel-prj-mng/3-ivt-17-t3-MarinaSvistunova/blob/master/img/image.png)
 
 ## ВСР https://moodle.herzen.spb.ru/mod/page/view.php?id=123172
 
